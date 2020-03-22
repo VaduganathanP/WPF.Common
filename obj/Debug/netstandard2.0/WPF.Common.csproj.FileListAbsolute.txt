@@ -1,0 +1,9 @@
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\bin\Debug\netstandard2.0\WPF.Common.deps.json
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\bin\Debug\netstandard2.0\WPF.Common.dll
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\bin\Debug\netstandard2.0\WPF.Common.pdb
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.AssemblyInfoInputs.cache
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.AssemblyInfo.cs
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.dll
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.pdb
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.csprojAssemblyReference.cache
+C:\Users\vpillappan\Documents\GitHub\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.csproj.CoreCompileInputs.cache

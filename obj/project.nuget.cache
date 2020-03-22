@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOvnvuY6JJNjUfToYJOp8Xs/U9ErsjRvSEn4tm86hgOb87pPF5cXIMiHgXM0sKWc3dgTGdP2e3g8G+X5fRgyQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vpillappan\\Documents\\GitHub\\WPF.Common\\WPF.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vpillappan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vpillappan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
